@@ -2,10 +2,9 @@
 
 
 - 🔭 Atualmente trabalhando como freelancer
-- 👨‍💻 Cursando Análise e Desenvolvimento(ADS) no IFPB
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) no IFPB
 - 🌱 Estudando EDA e me aprofundando em Java e frond-end, com HTML, CSS e JavaScript
 - 📫 Fale comigo no email: kaikaciole1.0@gmail.com
-- 😄 ele/dele
 
 <p></p>
 
