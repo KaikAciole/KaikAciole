@@ -1,9 +1,8 @@
 ### Olá, eu sou Kaik Aciole! 👋
 
 
-- 🔭 Atualmente trabalhando como freelancer
-- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) no IFPB
-- 🌱 Estudando e me aprofundando no mundo dos javeiros
+- 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas(ADS) no IFPB / 4° Período
+- 🌱 Estudando e me aprofundando em Java
 - 📫 Fale comigo no email: kaikaciole1.0@gmail.com
 - 👉 Minhas redes: Linkedin: <a href="www.linkedin.com/in/kaikaciole01">/in/kaikaciole01</a> ---- Instagram: <a href="https://www.instagram.com/kaik_aciole/">@dev.aciole</a>
 
